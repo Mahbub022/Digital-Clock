@@ -1,0 +1,6 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "controlSignals" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# Waveform file 'E:/LAB/DSD_Project/Digital_Clock_With_Date_-_Calender_DSD_Project/dsd_project/digital_clock/src/controlLogicForm.awc' connected to 'E:/LAB/DSD_Project/Digital_Clock_With_Date_-_Calender_DSD_Project/dsd_project/digital_clock/src/controlLogicForm.asdb'.
+# Waveform file 'E:/LAB/DSD_Project/Digital_Clock_With_Date_-_Calender_DSD_Project/dsd_project/digital_clock/src/plaTimerSetForm.awc' connected to 'E:/LAB/DSD_Project/Digital_Clock_With_Date_-_Calender_DSD_Project/dsd_project/digital_clock/src/plaTimerSetForm.asdb'.
+# Waveform file 'E:/LAB/DSD_Project/Digital_Clock_With_Date_-_Calender_DSD_Project/dsd_project/digital_clock/src/plaTimerCompare.awc' connected to 'E:/LAB/DSD_Project/Digital_Clock_With_Date_-_Calender_DSD_Project/dsd_project/digital_clock/src/plaTimerCompare.asdb'.
